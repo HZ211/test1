@@ -1,0 +1,30 @@
+p = 127.0.0.1
+ip:127.0.0.1  port:42284 successfull! connfd = 5
+tid = 140548775790336
+进入while(1)
+msg =   pp =   
+exit
+
+Ctrl + c
+server closing...
+p = 127.0.0.1
+ip:127.0.0.1  port:42300 successfull! connfd = 5
+tid = 140134201329408
+进入while(1)
+进入登陆界面
+OK
+name = 001上线
+进入while(1)
+p = 127.0.0.1
+ip:127.0.0.1  port:42302 successfull! connfd = 6
+tid = 140134192936704
+进入while(1)
+进入登陆界面
+OK
+name = 002上线
+进入while(1)
+进入私聊界面
+进入while(1)
+
+Ctrl + c
+server closing...
